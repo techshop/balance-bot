@@ -1,2 +1,3 @@
 # balance-bot
-Balance robot project
+
+Class currently in development
